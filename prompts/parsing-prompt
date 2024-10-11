@@ -1,0 +1,17 @@
+I will provide you a transcript of an audio note of a single person sharing an idea. I want to publish this idea on medium. I have cleaned it of any filler words already and now I want to analyze and parse it before handing it off to another LLM to formulate a blog post in my personal style
+
+Here is how I want you to parse it:
+
+First,
+
+- How many central ideas are in this text ?
+
+- Do all ideas relate to the same underlying problem? If not, separate the sentences from the text according to their ideas — mention those that seem to relate to several.
+
+Then,
+
+- what is/are the central idea(s)/question/problem/challenges of this transcript
+
+- Finally, state them again in a readable fashion with quotes of the original verbatim message
+
+Here is the text I want you to parse:
