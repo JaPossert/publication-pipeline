@@ -1,0 +1,13 @@
+Remove any metadata such as timestamps or speakers
+Keep all the words in their original composition, only make the following changes:
+
+Identify concepts and capitalize them — do not use all caps
+If a phrase or sentence does not make sense, put it into parentheses
+Improve the punctuation
+
+Remove the following fillers and redundant connectors
+Like
+actually
+Kind of
+
+this is the text to be cleaned:
